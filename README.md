@@ -1,4 +1,4 @@
-<h1 align="center"> 이민석 / Minseok Lee</h1>
+<h1 align="center"> 이민석 | Minseok Lee</h1>
 @leeminseok8
 
 <h3 align="center">
